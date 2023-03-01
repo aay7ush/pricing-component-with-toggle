@@ -12,7 +12,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Pricing component with toggle](https://result-summary-c0mponent.netlify.app/)
+- Live Site URL: [Pricing component with toggle](https://pricing-component-with-t0ggle.netlify.app/)
 
 ## Built with
 
